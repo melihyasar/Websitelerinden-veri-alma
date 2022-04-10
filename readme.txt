@@ -1,0 +1,1 @@
+websitelerinden veri çeken python kodlarý

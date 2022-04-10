@@ -1,0 +1,1 @@
+her iki dakikada bir dolar/tl/euro verisini internetten alıp yazdıran program
