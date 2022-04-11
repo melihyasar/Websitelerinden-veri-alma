@@ -1,1 +1,1 @@
-aradığınız kelimeye göre ürün ve fiyat gösteren program
+aradÄ±ÄŸÄ±nÄ±z kelimeye gÃ¶re Ã¼rÃ¼n ve fiyat gÃ¶steren program
