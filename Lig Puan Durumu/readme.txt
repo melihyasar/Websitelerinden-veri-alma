@@ -1,1 +1,1 @@
-Süperlig puan durumunu internetten alıp gösteren program
+SÃ¼perlig puan durumunu internetten alÄ±p gÃ¶steren program
